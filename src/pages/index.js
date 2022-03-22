@@ -7,7 +7,7 @@ import styles from './index.module.css';
 import styled from "styled-components";
 
 const HeaderWrapper = styled.header`
-  width: 800px;
+  max-width: 800px;
   margin: 8rem auto;
 `;
 
