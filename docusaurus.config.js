@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Gouache',
   tagline: 'Design Data Platform for everyone',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://gouache.design/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Gouache', 
+  projectName: 'Gouache Docs',
 
   presets: [
     [
@@ -46,7 +46,7 @@ const config = {
         title: 'Gouache',
         logo: {
           alt: 'Gouache Logo',
-          src: 'img/logo.svg',
+          src: 'img/gouache-logo.png',
         },
         items: [
           {
@@ -56,15 +56,17 @@ const config = {
             label: 'Tutorial',
           },
           {href: 'https://medium.com/gouache-app', label: 'Blog', position: 'left'},
+          {href: 'https://gouache.design/send-feedback', label: 'Send feedback', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Gouache-app',
             label: 'GitHub',
             position: 'right',
           },
+          
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
@@ -79,16 +81,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Send Feedback',
+                href: 'https://gouache.design/send-feedback',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/M5qZ6HqDUn',
               },
             ],
           },
@@ -97,16 +95,20 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://medium.com/gouache-app',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Gouache-app',
               },
+              {
+                label: "Changelog",
+                href: "https://gouache.design/changelog"
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Gouache, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
