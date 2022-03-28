@@ -12,7 +12,7 @@ Deleting a folder is quite simple. Click on the `more` button and then click on 
 
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiem13mg7kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="215" src="https://www.youtube.com/embed/kiem13mg7kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
@@ -22,4 +22,4 @@ Deleting a Folder is pretty much the same. Click on the `more` button and then c
 
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Na30_sRHtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="215" src="https://www.youtube.com/embed/8Na30_sRHtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -7,7 +7,7 @@ sidebar_position: 4
 To create a Style Sheet, click on the top right `Add` button and select `Style Sheet`.
 
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fj-ReuoOkl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="215" src="https://www.youtube.com/embed/fj-ReuoOkl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
