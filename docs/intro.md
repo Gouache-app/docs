@@ -13,7 +13,7 @@ In this documentation, you'll find first how to use the [Gouache platform](https
 Before you start, let's understand what compose a Gouache project. A project can contains 4 file types:
 
 1. [Folder](#folder)
-2. [Design tokens file](#design-tokens-file)
+2. [Design tokens folder](#design-tokens-file)
 3. [Style Sheet](##style-sheet)
 4. [Read me](#read-me)
 
@@ -22,17 +22,17 @@ Before you start, let's understand what compose a Gouache project. A project can
 
 ### Folder
 
-A folder can store any other type of data. You can think of a folder the same way they exists in your computer. A design can then contains Design Tokens files, Style Sheets and other Folders too.
+A folder can store any other type of data. You can think of a folder the same way they exists in your computer. A design can then contains Design Tokens folder, Style Sheets and other Folders too.
 
 ![Folder](./assets/intro/folder.png)
 
 <br />
 
-### Design tokens file
+### Design tokens folder
 
-A Design Tokens file contains design tokens. For instance, a you could create a design tokens file named `colors` that would store all the colors for your app:
+A Design Tokens folder contains design tokens. For instance, a you could create a design tokens folder named `colors` that would store all the colors for your app:
 
-![Design tokens file](./assets/intro/design-tokens-file.png)
+![Design tokens folder](./assets/intro/design-tokens-file.png)
 
 <br />
 
@@ -57,7 +57,7 @@ It's pretty easy to reuse a design token inside a style sheet. Simply type the a
 
 ### Read me 
 
-A Read me file can be added to any file style (Folder, Design Tokens file, Style Sheet). This allow you to add documentation that helps your team understand your structure. 
+A Read me file can be added to any file style (Folder, Design Tokens folder, Style Sheet). This allow you to add documentation that helps your team understand your structure. 
 
 Gouache provides a simple way to add documentation to your Folders, Design Tokens, and Style Sheets. Here you can add anything you want using the Markdown markup language.
 

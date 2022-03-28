@@ -12,6 +12,18 @@ You'll need to add a name for your project and you'll need to select a template.
 
 If it's your first project, you might want to try the `Recommended` template to get you up and running quickly.
 
-<iframe width="560" height="315" style={{margin: "40px 0px"}} src="https://www.youtube.com/embed/yB1eLVB94S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yB1eLVB94S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+<br />
 
 Once you'll be more comfortable and if you think the `Recommended` file structure did not meet your need, you can use the `Blank` template and start from scratch.
+
+### Deleting a project
+
+From the root of the project, you can use the more button to delete your project. Right now, please note that a project needs to be empty in order to be deleted.
+
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Joy0RzTT0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
