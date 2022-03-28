@@ -15,15 +15,12 @@ To create a Style Sheet, click on the top right `Add` button and select `Style S
 
 Editing a style sheet is pretty similar than how to edit styles using the `Chrome devtool`. The difference here is that you can use your `Design tokens` and add `Reusable blocks` (i.e. previously saved Style Sheets).
 
+<br />
 
+TODO: ADD THE EDIT STYLE SHEET VIDEO
 
-## Editing a style element
-
-...
-
-## Removing a style element
-
-...
+<br />
+<br />
 
 ## Adding a new selector
 

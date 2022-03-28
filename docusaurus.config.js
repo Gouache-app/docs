@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Gouache',
   tagline: 'Design Data Platform for everyone',
-  url: 'https://gouache.design/',
+  url: 'https://gouache.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,7 +53,7 @@ const config = {
             label: 'Tutorial',
           },
           {href: 'https://medium.com/gouache-app', label: 'Blog', position: 'left'},
-          {href: 'https://gouache.design/send-feedback', label: 'Send feedback', position: 'left'},
+          {href: 'https://gouache.app/send-feedback', label: 'Send feedback', position: 'left'},
           {
             href: 'https://github.com/Gouache-app',
             label: 'GitHub',
@@ -79,7 +79,7 @@ const config = {
             items: [
               {
                 label: 'Send Feedback',
-                href: 'https://gouache.design/send-feedback',
+                href: 'https://gouache.app/send-feedback',
               },
               {
                 label: 'Discord',
@@ -100,7 +100,7 @@ const config = {
               },
               {
                 label: "Changelog",
-                href: "https://gouache.design/changelog"
+                href: "https://gouache.app/changelog"
               }
             ],
           },
