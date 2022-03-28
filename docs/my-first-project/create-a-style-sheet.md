@@ -4,11 +4,18 @@ sidebar_position: 4
 
 # Create a Style sheet
 
-Write a small text that explain how to add a new Style sheet.
+To create a Style Sheet, click on the top right `Add` button and select `Style Sheet`.
 
-## How to add a new style element
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fj-ReuoOkl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Write a small text that explain how to add a new Style.
+<br />
+
+## Editing Style Sheet
+
+Editing a style sheet is pretty similar than how to edit styles using the `Chrome devtool`. The difference here is that you can use your `Design tokens` and add `Reusable blocks` (i.e. previously saved Style Sheets).
+
+
 
 ## Editing a style element
 
