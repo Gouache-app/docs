@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Create a Folder
 
-Small text that explains how to add a folder to the project.
+A folder is ...
 
 ## Edit and delete a folder
 
