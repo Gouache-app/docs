@@ -2,7 +2,11 @@
 sidebar_position: 1
 ---
 
-# Create a Project
+# Project
+
+At gouache, everything starts with a `Project`. A project is where you'll be building the infrastructure of your Design System or simply store your application styles.
+
+### Create a Project
 
 Creating a project is pretty simple using Gouache. Once you're authenticated using your One Time Password, you'll be redirected to the `projects page`.
 
@@ -14,7 +18,7 @@ If it's your first project, you might want to try the `Recommended` template to 
 
 <br />
 
-<iframe width="560" height="345" src="https://www.youtube.com/embed/yB1eLVB94S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="345" src="https://www.youtube.com/embed/yB1eLVB94S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 <br />
 <br />
@@ -26,4 +30,4 @@ Once you'll be more comfortable and if you think the `Recommended` file structu
 From the root of the project, you can use the more button to delete your project. Right now, please note that a project needs to be empty in order to be deleted.
 
 <br />
-<iframe width="560" height="210" src="https://www.youtube.com/embed/3Joy0RzTT0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="210" src="https://www.youtube.com/embed/3Joy0RzTT0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>

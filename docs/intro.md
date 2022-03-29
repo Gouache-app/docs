@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Welcome to Gouache 👋🏽
+# Welcome to Gouache
 
-Welcome to the [Gouache app](https://gouache.app/) documentation. 
+Welcome to the [Gouache app](https://gouache.app/) documentation. Gouache will helps your team collaborate, prototyping & uniformise your apps from design to prod.
 
-In this documentation, you'll find first how to use the [Gouache platform](https://gouache.app/) and after how to use our [React hook](https://github.com/gouache-app/use-gouache).
+Here, you'll find how to use the [Gouache platform](https://gouache.app/) and how to use our [React hook](https://github.com/gouache-app/use-gouache).
 
 ## Before you start
 
@@ -51,7 +51,7 @@ It's pretty easy to reuse a design token inside a style sheet. Simply type the a
 
 <br />
 
-<iframe width="560" height="255" src="https://www.youtube.com/embed/sNsuS5wHBUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="255" src="https://www.youtube.com/embed/sNsuS5wHBUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 <br />
 

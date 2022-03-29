@@ -50,7 +50,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {href: 'https://medium.com/gouache-app', label: 'Blog', position: 'left'},
           {href: 'https://gouache.app/send-feedback', label: 'Send feedback', position: 'left'},
@@ -69,8 +69,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Gouache App',
+                href: 'https://gouache.app',
               },
             ],
           },
