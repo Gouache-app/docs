@@ -8,7 +8,7 @@ Welcome to the [Gouache app](https://gouache.app/) documentation. Gouache will h
 
 Here, you'll find how to use the [Gouache platform](https://gouache.app/) and how to use our [React hook](https://github.com/gouache-app/use-gouache).
 
-## Before you start
+### Before you start
 
 Before you start, let's understand what compose a Gouache project. A project can contains 4 file types:
 

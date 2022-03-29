@@ -116,6 +116,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'UA-223042685-2',
+      },
+    ],
+  ],
 };
 
 module.exports = config;
