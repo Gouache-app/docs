@@ -8,7 +8,7 @@ A Style Sheet is a document that store styles values. Inside this file, you can 
 
 In the example above, to style our primary button, we're using the `default button` reusable block and we're adding a `blue` background-color and a `white` color (both stored as Design Tokens).
 
-### Create a Style Sheet
+### How to create a Style Sheet?
 
 To create a Style Sheet, click on the top right `Add` button and select `Style Sheet`.
 
@@ -17,7 +17,7 @@ To create a Style Sheet, click on the top right `Add` button and select `Style S
 
 <br />
 
-### Editing Style Sheet
+### How to edit Style Sheet?
 
 Editing a style sheet is pretty similar than how to edit styles using the `Chrome devtool`. The difference here is that you can use your `Design tokens` and add `Reusable blocks` (i.e. previously saved Style Sheets).
 
@@ -28,7 +28,7 @@ Editing a style sheet is pretty similar than how to edit styles using the `Chrom
 <br />
 <br />
 
-### Adding a new selector
+### How to add a selector?
 
 You can add selector to a Style Sheet. To do so, you need to click on the `+ selector` button and add your selector.
 
@@ -40,30 +40,30 @@ For more information about selector, take a look at this https://developer.mozil
 <br />
 <br />
 
-### Editing a selector
+### How to edit a selector?
 
 To edit a selector, just click on the selector you want to edit and you'll be able to change it.
 
-### Removing a selector
+### How to remove a selector?
 
 ...
 
-### Use a Design Token
+### How to use a Design Token?
 
 Write a small text that explain how use a Design Token.
 
-### Use a Reusable block
+### How to use a Reusable block?
 
 Write a small text that explain how use a reusable block.
 
-### Removing a Reusable block
+### How to remove a Reusable block?
 
 ...
 
-### Reorder elements
+### How to reorder elements?
 
 Write a small text that explain how to reorder elements.
 
-### Get info about the style element
+### How to get info about the style element?
 
 Write a small text that explain how to get info about the style element (i.e. MDN link.).

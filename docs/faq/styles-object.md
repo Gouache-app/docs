@@ -6,7 +6,7 @@ sidebar_position: 7
 
 On Gouache, the Styles object is the object that contains all of your styles for a particular project. 
 
-### Downloading your styles object
+### How to download your styles object?
 
 If you want to see how your styles object looks and if you want to use a local styles file in production instead of making API calls to get your styles object, you can download it as a JSON file.
 

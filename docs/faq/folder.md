@@ -6,11 +6,13 @@ sidebar_position: 2
 
 A folder can store any other type of data. You can think of a folder the same way they exists in your computer. A design can then contains Design Tokens folder, Style Sheets and other Folders too.
 
-# Create a Folder
+### How to create a Folder?
 
 Creating a [folder](/docs/intro#folder) is pretty simple. You need to click on the top right `Add` button anc dlick on `Folder`. You'll then need to add a name for the folder.
 
-### Edit a folder
+<br />
+
+### How to edit a folder?
 
 Deleting a folder is quite simple. Click on the `more` button and then click on `edit`. You will now be able to edit your folder name.
 
@@ -20,7 +22,7 @@ Deleting a folder is quite simple. Click on the `more` button and then click on 
 
 <br />
 
-### Delete a folder
+### How to delete a folder?
 
 Deleting a Folder is pretty much the same. Click on the `more` button and then click on delete. Right now, please note that a folders needs to be empty in order to be deleted.
 

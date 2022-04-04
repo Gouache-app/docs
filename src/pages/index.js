@@ -34,6 +34,7 @@ const StyledLink = styled(Link)`
 
 const HeroTitle = styled.h1`
  font-size: 48px;
+ border-bottom: none;
 `;
 
 function HomepageHeader() {

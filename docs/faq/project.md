@@ -6,7 +6,7 @@ sidebar_position: 1
 
 At gouache, everything starts with a `Project`. A project is where you'll be building the infrastructure of your Design System or simply store your application styles.
 
-### Create a Project
+### How to reate a Project?
 
 Creating a project is pretty simple using Gouache. Once you're authenticated using your One Time Password, you'll be redirected to the `projects page`.
 
@@ -25,7 +25,7 @@ If it's your first project, you might want to try the `Recommended` template to 
 
 Once you'll be more comfortable and if you think the `Recommended` file structure did not meet your need, you can use the `Blank` template and start from scratch.
 
-### Deleting a project
+### How to delete a project?
 
 From the root of the project, you can use the more button to delete your project. Right now, please note that a project needs to be empty in order to be deleted.
 

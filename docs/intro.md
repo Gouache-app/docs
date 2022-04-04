@@ -13,12 +13,15 @@ Here, you'll find how to use the [Gouache platform](https://gouache.app/) and ho
 Before you start, let's understand what compose a Gouache project. A project can contains 4 file types:
 
 1. [Folder](#folder)
-2. [Design tokens folder](#design-tokens-file)
-3. [Style Sheet](##style-sheet)
+2. [Design tokens folder](#design-tokens-folder)
+3. [Style Sheet](#style-sheet)
 4. [Read me](#read-me)
 
 <br />
 
+## Definitions
+
+Here are some definitions that will help you get up and running quickly with Gouache.
 
 ### Folder
 
