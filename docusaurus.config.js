@@ -89,6 +89,14 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/M5qZ6HqDUn',
               },
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/company/gouache-app"
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/gouache_app"
+              }
             ],
           },
           {
@@ -105,6 +113,10 @@ const config = {
               {
                 label: "Changelog",
                 href: "https://gouache.app/changelog"
+              },
+              {
+                label: "Feedback",
+                href: "https://feedback.gouache.app/"
               }
             ],
           },

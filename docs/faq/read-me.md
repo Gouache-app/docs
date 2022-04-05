@@ -10,11 +10,13 @@ Gouache provides a simple way to add documentation to your Folders, Design Token
 
 ### How to create a Read me?
 
-Write a small text that explain how to add a new Read me.
+Coming soon.
 
 ### How to edit a Read me?
 
-...
+Coming soon.
 
 
 ### How to delete a Read me?
+
+Coming soon.

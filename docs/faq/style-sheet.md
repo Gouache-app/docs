@@ -42,28 +42,28 @@ For more information about selector, take a look at this https://developer.mozil
 
 ### How to edit a selector?
 
-To edit a selector, just click on the selector you want to edit and you'll be able to change it.
+Coming soon.
 
 ### How to remove a selector?
 
-...
+Coming soon.
 
 ### How to use a Design Token?
 
-Write a small text that explain how use a Design Token.
+Coming soon.
 
 ### How to use a Reusable block?
 
-Write a small text that explain how use a reusable block.
+Coming soon.
 
 ### How to remove a Reusable block?
 
-...
+Coming soon.
 
 ### How to reorder elements?
 
-Write a small text that explain how to reorder elements.
+Coming soon.
 
 ### How to get info about the style element?
 
-Write a small text that explain how to get info about the style element (i.e. MDN link.).
+Coming soon.
