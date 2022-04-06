@@ -10,13 +10,16 @@ Gouache provides a simple way to add documentation to your Folders, Design Token
 
 ### How to create a Read me?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZV7qPQ7YXCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to edit a Read me?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYoBQECZdWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
 
 ### How to delete a Read me?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-09lDy7xEvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

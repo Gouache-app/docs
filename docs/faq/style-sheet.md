@@ -42,28 +42,42 @@ For more information about selector, take a look at this https://developer.mozil
 
 ### How to edit a selector?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CiAHkvAzXEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to remove a selector?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_xsc1R8NCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to use a Design Token?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zMqQxa_cz4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to use a Reusable block?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yj5t-7IPHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to remove a Reusable block?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBiMeVNpLT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to reorder elements?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A5MmNSvTW30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### How to get info about the style element?
 
-Coming soon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9yBwB3WJhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
